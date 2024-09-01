@@ -1,6 +1,7 @@
 package test;
 import apps.JUnitApplication;
 
+import junit.framework.TestCase;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
@@ -16,8 +17,20 @@ For that reason, we must consider these two issues additionally:
 2- Old successful tests may be unsuccessful after the new coding stage.
 */
 
-public class UnitTest {
-    static JUnitApplication app = new JUnitApplication();
+public class UnitTest extends TestCase {
+
+    static JUnitApplication app;
+    
+    protected void setUp() {
+        // method which runs before every test invocation
+        // assigning the values
+        app = new JUnitApplication();
+    }
+
+    protected void tearDown() {
+        // method which runs after every test method
+        System.out.println("Test is over.");
+    }
 
     @Test
     public void testPerfect() {
