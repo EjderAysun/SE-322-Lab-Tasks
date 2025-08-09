@@ -47,7 +47,8 @@ _The first objective_ of this course is to introduce students to and provide cor
 
 ---
 ## Status
-In progress; tasks, related documents, and solutions will be added almost weekly until the end of the 2024 Spring Semester, and past documents will be updated if necessary.
+~~In progress; tasks, related documents, and solutions will be added almost weekly until the end of the 2024 Spring Semester, and past documents will be updated if necessary.~~  
+Addition process is complete
 
 ---
 ## Inspiration
@@ -61,8 +62,8 @@ I share documents publicly. The contents of the SE 322 projects that will be giv
 
 ---
 ## Contributors
-- for theory: SE 322 Course Coordinator and Course Lecturer, [Asst. Prof. Kaan KURTEL](https://people.ieu.edu.tr/en/kaankurtel/main)
-- for lab: SE 322 Course Assistant, [Res. Asst. Dr. Serhat UZUNBAYIR](https://people.ieu.edu.tr/en/serhatuzunbayir/main)
+- for theory: SE 322 Course Coordinator and Course Lecturer, [Kaan KURTEL](https://people.ieu.edu.tr/en/kaankurtel/main)
+- for lab: SE 322 Course Assistant, [Serhat UZUNBAYIR](https://people.ieu.edu.tr/en/serhatuzunbayir/main)
 - Ejder Aysun <ejderaysunn@gmail.com>
 - Sommerville I. Software Engineering. 10th ed. Addison Wesley, 2016, ISBN-13: 978-0133943030.
 - Black R., van Veenendaal E. and Graham D. Foundations of Software Testing. 3rd ed. Cengage Learning, 2015, ISBN-13: 978-8131526361.
